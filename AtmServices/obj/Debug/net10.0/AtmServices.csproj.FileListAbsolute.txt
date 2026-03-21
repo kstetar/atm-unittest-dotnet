@@ -1,0 +1,12 @@
+/workspaces/atm-unittest-dotnet/AtmServices/obj/Debug/net10.0/AtmServices.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/atm-unittest-dotnet/AtmServices/obj/Debug/net10.0/AtmServices.AssemblyInfoInputs.cache
+/workspaces/atm-unittest-dotnet/AtmServices/obj/Debug/net10.0/AtmServices.AssemblyInfo.cs
+/workspaces/atm-unittest-dotnet/AtmServices/obj/Debug/net10.0/AtmServices.csproj.CoreCompileInputs.cache
+/workspaces/atm-unittest-dotnet/AtmServices/obj/Debug/net10.0/AtmServices.sourcelink.json
+/workspaces/atm-unittest-dotnet/AtmServices/bin/Debug/net10.0/AtmServices.deps.json
+/workspaces/atm-unittest-dotnet/AtmServices/bin/Debug/net10.0/AtmServices.dll
+/workspaces/atm-unittest-dotnet/AtmServices/bin/Debug/net10.0/AtmServices.pdb
+/workspaces/atm-unittest-dotnet/AtmServices/obj/Debug/net10.0/AtmServices.dll
+/workspaces/atm-unittest-dotnet/AtmServices/obj/Debug/net10.0/refint/AtmServices.dll
+/workspaces/atm-unittest-dotnet/AtmServices/obj/Debug/net10.0/AtmServices.pdb
+/workspaces/atm-unittest-dotnet/AtmServices/obj/Debug/net10.0/ref/AtmServices.dll
