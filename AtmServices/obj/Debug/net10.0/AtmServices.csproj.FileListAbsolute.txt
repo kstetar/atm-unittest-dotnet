@@ -10,3 +10,15 @@
 /workspaces/atm-unittest-dotnet/AtmServices/obj/Debug/net10.0/refint/AtmServices.dll
 /workspaces/atm-unittest-dotnet/AtmServices/obj/Debug/net10.0/AtmServices.pdb
 /workspaces/atm-unittest-dotnet/AtmServices/obj/Debug/net10.0/ref/AtmServices.dll
+C:\Users\kstet\Desktop\My files\Learning\BSU - Masters\Current Courses\CS 690 Software Engineering\cs690work\mod13-testing\atm-unittest-dotnet\AtmServices\bin\Debug\net10.0\AtmServices.deps.json
+C:\Users\kstet\Desktop\My files\Learning\BSU - Masters\Current Courses\CS 690 Software Engineering\cs690work\mod13-testing\atm-unittest-dotnet\AtmServices\bin\Debug\net10.0\AtmServices.dll
+C:\Users\kstet\Desktop\My files\Learning\BSU - Masters\Current Courses\CS 690 Software Engineering\cs690work\mod13-testing\atm-unittest-dotnet\AtmServices\bin\Debug\net10.0\AtmServices.pdb
+C:\Users\kstet\Desktop\My files\Learning\BSU - Masters\Current Courses\CS 690 Software Engineering\cs690work\mod13-testing\atm-unittest-dotnet\AtmServices\obj\Debug\net10.0\AtmServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstet\Desktop\My files\Learning\BSU - Masters\Current Courses\CS 690 Software Engineering\cs690work\mod13-testing\atm-unittest-dotnet\AtmServices\obj\Debug\net10.0\AtmServices.AssemblyInfoInputs.cache
+C:\Users\kstet\Desktop\My files\Learning\BSU - Masters\Current Courses\CS 690 Software Engineering\cs690work\mod13-testing\atm-unittest-dotnet\AtmServices\obj\Debug\net10.0\AtmServices.AssemblyInfo.cs
+C:\Users\kstet\Desktop\My files\Learning\BSU - Masters\Current Courses\CS 690 Software Engineering\cs690work\mod13-testing\atm-unittest-dotnet\AtmServices\obj\Debug\net10.0\AtmServices.csproj.CoreCompileInputs.cache
+C:\Users\kstet\Desktop\My files\Learning\BSU - Masters\Current Courses\CS 690 Software Engineering\cs690work\mod13-testing\atm-unittest-dotnet\AtmServices\obj\Debug\net10.0\AtmServices.sourcelink.json
+C:\Users\kstet\Desktop\My files\Learning\BSU - Masters\Current Courses\CS 690 Software Engineering\cs690work\mod13-testing\atm-unittest-dotnet\AtmServices\obj\Debug\net10.0\AtmServices.dll
+C:\Users\kstet\Desktop\My files\Learning\BSU - Masters\Current Courses\CS 690 Software Engineering\cs690work\mod13-testing\atm-unittest-dotnet\AtmServices\obj\Debug\net10.0\refint\AtmServices.dll
+C:\Users\kstet\Desktop\My files\Learning\BSU - Masters\Current Courses\CS 690 Software Engineering\cs690work\mod13-testing\atm-unittest-dotnet\AtmServices\obj\Debug\net10.0\AtmServices.pdb
+C:\Users\kstet\Desktop\My files\Learning\BSU - Masters\Current Courses\CS 690 Software Engineering\cs690work\mod13-testing\atm-unittest-dotnet\AtmServices\obj\Debug\net10.0\ref\AtmServices.dll

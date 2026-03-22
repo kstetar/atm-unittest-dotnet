@@ -1,33 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/atm-unittest-dotnet/AtmServices.Test/AtmServices.Test.csproj": {}
+    "C:\\Users\\kstet\\Desktop\\My files\\Learning\\BSU - Masters\\Current Courses\\CS 690 Software Engineering\\cs690work\\mod13-testing\\atm-unittest-dotnet\\AtmServices.Test\\AtmServices.Test.csproj": {}
   },
   "projects": {
-    "/workspaces/atm-unittest-dotnet/AtmServices.Test/AtmServices.Test.csproj": {
+    "C:\\Users\\kstet\\Desktop\\My files\\Learning\\BSU - Masters\\Current Courses\\CS 690 Software Engineering\\cs690work\\mod13-testing\\atm-unittest-dotnet\\AtmServices.Test\\AtmServices.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/atm-unittest-dotnet/AtmServices.Test/AtmServices.Test.csproj",
+        "projectUniqueName": "C:\\Users\\kstet\\Desktop\\My files\\Learning\\BSU - Masters\\Current Courses\\CS 690 Software Engineering\\cs690work\\mod13-testing\\atm-unittest-dotnet\\AtmServices.Test\\AtmServices.Test.csproj",
         "projectName": "AtmServices.Test",
-        "projectPath": "/workspaces/atm-unittest-dotnet/AtmServices.Test/AtmServices.Test.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/atm-unittest-dotnet/AtmServices.Test/obj/",
+        "projectPath": "C:\\Users\\kstet\\Desktop\\My files\\Learning\\BSU - Masters\\Current Courses\\CS 690 Software Engineering\\cs690work\\mod13-testing\\atm-unittest-dotnet\\AtmServices.Test\\AtmServices.Test.csproj",
+        "packagesPath": "C:\\Users\\kstet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kstet\\Desktop\\My files\\Learning\\BSU - Masters\\Current Courses\\CS 690 Software Engineering\\cs690work\\mod13-testing\\atm-unittest-dotnet\\AtmServices.Test\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\kstet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/workspaces/atm-unittest-dotnet/AtmServices/AtmServices.csproj": {
-                "projectPath": "/workspaces/atm-unittest-dotnet/AtmServices/AtmServices.csproj"
+              "C:\\Users\\kstet\\Desktop\\My files\\Learning\\BSU - Masters\\Current Courses\\CS 690 Software Engineering\\cs690work\\mod13-testing\\atm-unittest-dotnet\\AtmServices\\AtmServices.csproj": {
+                "projectPath": "C:\\Users\\kstet\\Desktop\\My files\\Learning\\BSU - Masters\\Current Courses\\CS 690 Software Engineering\\cs690work\\mod13-testing\\atm-unittest-dotnet\\AtmServices\\AtmServices.csproj"
               }
             }
           }
@@ -56,6 +62,12 @@
               "target": "Package",
               "version": "[6.0.4, )"
             },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
             "xunit": {
               "target": "Package",
               "version": "[2.9.3, )"
@@ -81,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -359,22 +371,28 @@
         }
       }
     },
-    "/workspaces/atm-unittest-dotnet/AtmServices/AtmServices.csproj": {
+    "C:\\Users\\kstet\\Desktop\\My files\\Learning\\BSU - Masters\\Current Courses\\CS 690 Software Engineering\\cs690work\\mod13-testing\\atm-unittest-dotnet\\AtmServices\\AtmServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/atm-unittest-dotnet/AtmServices/AtmServices.csproj",
+        "projectUniqueName": "C:\\Users\\kstet\\Desktop\\My files\\Learning\\BSU - Masters\\Current Courses\\CS 690 Software Engineering\\cs690work\\mod13-testing\\atm-unittest-dotnet\\AtmServices\\AtmServices.csproj",
         "projectName": "AtmServices",
-        "projectPath": "/workspaces/atm-unittest-dotnet/AtmServices/AtmServices.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/atm-unittest-dotnet/AtmServices/obj/",
+        "projectPath": "C:\\Users\\kstet\\Desktop\\My files\\Learning\\BSU - Masters\\Current Courses\\CS 690 Software Engineering\\cs690work\\mod13-testing\\atm-unittest-dotnet\\AtmServices\\AtmServices.csproj",
+        "packagesPath": "C:\\Users\\kstet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kstet\\Desktop\\My files\\Learning\\BSU - Masters\\Current Courses\\CS 690 Software Engineering\\cs690work\\mod13-testing\\atm-unittest-dotnet\\AtmServices\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\kstet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -414,7 +432,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
